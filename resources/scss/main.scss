@@ -1014,6 +1014,64 @@ html {
   }
 }
 
+.privacyPolicy {
+  margin-top: 5rem;
+  h2 {
+    font-size: 4rem;
+  }
+  .title {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    font-size: 3rem;
+  }
+  p {
+    font-size: 2rem;
+    width: 80%;
+    margin: 3rem auto;
+    line-height: 3rem;
+  }
+  .matter {
+    font-size: 2.5rem;
+    list-style: none;
+    margin-top: 3rem;
+  }
+  .textPolicy {
+    width: 80%;
+    margin: 1rem auto;
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+}
+
+.informationSecurity {
+  margin-top: 9rem;
+  h2 {
+    font-size: 4rem;
+  }
+  .title {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+    font-size: 3rem;
+  }
+  p {
+    font-size: 2rem;
+    width: 80%;
+    margin: 3rem auto;
+    line-height: 3rem;
+  }
+  .matter {
+    font-size: 2.5rem;
+    list-style: none;
+    margin-top: 3rem;
+  }
+  .textPolicy {
+    width: 80%;
+    margin: 1rem auto;
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+}
+
 .topbutton {
   bottom: 4rem;
   margin: 0 2rem 0 0;

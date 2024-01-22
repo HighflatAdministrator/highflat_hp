@@ -366,15 +366,41 @@ html { font-size: 62.5%; }
 .contact .address .mail .maillink:before { background: url(../img/mail_icn.png); background-size: contain; content: ""; display: inline-block; height: 4.6rem; margin: 0 2rem 0 0; vertical-align: text-bottom; width: 6.3rem; }
 
 /* line 1017, ../scss/main.scss */
+.privacyPolicy { margin-top: 5rem; }
+/* line 1019, ../scss/main.scss */
+.privacyPolicy h2 { font-size: 4rem; }
+/* line 1022, ../scss/main.scss */
+.privacyPolicy .title { margin-top: 3rem; margin-bottom: 4rem; font-size: 3rem; }
+/* line 1027, ../scss/main.scss */
+.privacyPolicy p { font-size: 2rem; width: 80%; margin: 3rem auto; line-height: 3rem; }
+/* line 1033, ../scss/main.scss */
+.privacyPolicy .matter { font-size: 2.5rem; list-style: none; margin-top: 3rem; }
+/* line 1038, ../scss/main.scss */
+.privacyPolicy .textPolicy { width: 80%; margin: 1rem auto; font-size: 2rem; line-height: 3rem; }
+
+/* line 1046, ../scss/main.scss */
+.informationSecurity { margin-top: 9rem; }
+/* line 1048, ../scss/main.scss */
+.informationSecurity h2 { font-size: 4rem; }
+/* line 1051, ../scss/main.scss */
+.informationSecurity .title { margin-top: 3rem; margin-bottom: 4rem; font-size: 3rem; }
+/* line 1056, ../scss/main.scss */
+.informationSecurity p { font-size: 2rem; width: 80%; margin: 3rem auto; line-height: 3rem; }
+/* line 1062, ../scss/main.scss */
+.informationSecurity .matter { font-size: 2.5rem; list-style: none; margin-top: 3rem; }
+/* line 1067, ../scss/main.scss */
+.informationSecurity .textPolicy { width: 80%; margin: 1rem auto; font-size: 2rem; line-height: 3rem; }
+
+/* line 1075, ../scss/main.scss */
 .topbutton { bottom: 4rem; margin: 0 2rem 0 0; position: sticky; margin-left: calc(100% - 10.3rem); }
-/* line 1023, ../scss/main.scss */
+/* line 1081, ../scss/main.scss */
 .topbutton .topbuttonlink { background: rgba(255, 255, 255, 0.75); border-radius: 0.5rem; height: 7.6rem; margin: 5rem 0 1rem; padding: 1rem; }
-/* line 1030, ../scss/main.scss */
+/* line 1088, ../scss/main.scss */
 .topbutton .topbuttonlink:hover { opacity: 0.5; }
-/* line 1034, ../scss/main.scss */
+/* line 1092, ../scss/main.scss */
 .topbutton .topbuttonlink .topbuttonimg { height: 100%; }
 
-/* line 1040, ../scss/main.scss */
+/* line 1098, ../scss/main.scss */
 .footer { margin: 0 2rem 0; padding: 0 0 6rem; }
 
 /*# sourceMappingURL=main.css.map */
