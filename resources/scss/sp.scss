@@ -246,6 +246,45 @@
     }
   }
 
+  .informationSecurity {
+    h2 {
+      font-size: 2rem;
+    }
+    .title {
+      font-size: 1rem;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    p {
+      font-size: 1rem;
+      margin-top: 1rem;
+    }
+    .matter {
+      font-size: 1.5rem;
+    }
+  }
+
+  .privacyPolicy {
+    h2 {
+      font-size: 2rem;
+    }
+    .title {
+      font-size: 1rem;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    p {
+      font-size: 1rem;
+      margin-top: 1rem;
+    }
+    .matter {
+      font-size: 1rem;
+    }
+    .textPolicy {
+      font-size: 1rem;
+    }
+  }
+
   .topbutton {
     bottom: 10rem;
     margin-left: calc(100% - 7.9rem);

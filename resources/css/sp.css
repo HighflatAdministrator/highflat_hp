@@ -106,9 +106,27 @@
   .contact .address .mail .maillink { font-size: 3rem; }
   /* line 241, ../scss/sp.scss */
   .contact .address .mail .maillink:before { margin: 0; }
-  /* line 249, ../scss/sp.scss */
-  .topbutton { bottom: 10rem; margin-left: calc(100% - 7.9rem); }
+  /* line 250, ../scss/sp.scss */
+  .informationSecurity h2 { font-size: 2rem; }
   /* line 253, ../scss/sp.scss */
+  .informationSecurity .title { font-size: 1rem; margin-top: 0; margin-bottom: 0; }
+  /* line 258, ../scss/sp.scss */
+  .informationSecurity p { font-size: 1rem; margin-top: 1rem; }
+  /* line 262, ../scss/sp.scss */
+  .informationSecurity .matter { font-size: 1.5rem; }
+  /* line 268, ../scss/sp.scss */
+  .privacyPolicy h2 { font-size: 2rem; }
+  /* line 271, ../scss/sp.scss */
+  .privacyPolicy .title { font-size: 1rem; margin-top: 0; margin-bottom: 0; }
+  /* line 276, ../scss/sp.scss */
+  .privacyPolicy p { font-size: 1rem; margin-top: 1rem; }
+  /* line 280, ../scss/sp.scss */
+  .privacyPolicy .matter { font-size: 1rem; }
+  /* line 283, ../scss/sp.scss */
+  .privacyPolicy .textPolicy { font-size: 1rem; }
+  /* line 288, ../scss/sp.scss */
+  .topbutton { bottom: 10rem; margin-left: calc(100% - 7.9rem); }
+  /* line 292, ../scss/sp.scss */
   .topbutton .topbuttonlink { height: 6rem; margin: 4rem 0 1rem; } }
 
 /*# sourceMappingURL=sp.css.map */
